@@ -125,7 +125,7 @@ public class USIS {
 /*
 
 //            eta bar bar cholbe na. just ekbar seat gula fix kore eta off kore dibo othoba mysql workbench er remaining seats table e just query 2 ta run
-//            kore 2 ta section e entry diye dibo. that's it. taile ar eikhane kisui kora lagbena
+//            kore 2 ta section ei entry diye dibo. that's it. taile ar eikhane kisui kora lagbena
 
 
             String s1_query = "INSERT INTO remaining_seats" + "(section, seats)" +  "VALUES ('01', '8')";
